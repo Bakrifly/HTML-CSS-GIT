@@ -20,3 +20,7 @@ You should not be able to type anything in the Country field. And the delivery o
 **Extra Credit**
 
 What's the difference between `readonly` and `disabled`? See if you can understand this [question and answer](https://stackoverflow.com/questions/7730695/whats-the-difference-between-disabled-disabled-and-readonly-readonly-for-ht).
+
+/\* So basically readonly field can not be changed by the user but submit it's data when the form get submitted and it can be focused and clicked, while a disabled can not be changed by the user and it won't submit it's data and it can be click or highlighted.
+
+Not all field can have a readonly but all field can have a disabled attribute. \*/
